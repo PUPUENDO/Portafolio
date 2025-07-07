@@ -85,8 +85,6 @@ El sitio simula un portafolio profesional con estructura de una página web mode
 ### 📬 Formulario de Contacto  
 ![Contacto](assets/captura3.png)
 
-> *(Puedes sustituir estos nombres de archivo por tus propias capturas).*
-
 ---
 
 ## 🌐 GitHub Pages
